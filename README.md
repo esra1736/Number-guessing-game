@@ -1,1 +1,2 @@
 # Number-guessing-game
+This is a simple Number Guessing Game where the player guesses a randomly generated number between 1 and 100. The player clicks number buttons to form their guess, and upon submitting it, they receive feedback on whether their guess is too low, too high, or correct. The game tracks the number of attempts and displays a congratulatory message once the correct number is guessed.
